@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project enhances the citizen-facing community hall booking platform under the UPYOG framework. The focus is to simplify the UI/UX, introduce real-time booking visibility, and improve the overall workflow for hall reservations.
+This project enhances the citizen-facing community hall booking platform under the UPYOG framework. The focus is to simplify the UI/UX, introduce real-time booking visibility, and improve the overall workflow for hall reservations. It also includes an admin dashboard to help urban local bodies manage facilities more effectively.
 
 ---
 
@@ -11,16 +11,26 @@ This project enhances the citizen-facing community hall booking platform under t
 * Design the UI for seamless navigation and mobile responsiveness
 * Add availability calendar for real-time slot visibility
 * Enable hall filtering by location, capacity, and amenities
-* Streamline booking flow with login and user dashboard
+* Streamline booking flow with OTP login and user dashboard
+* Provide admin tools to manage listings, bookings, and availability
 
 ---
 
 ## 🚀 Features
 
+### 👥 Citizen Interface
+
 * Clean, mobile-friendly interface for citizens
 * Slot availability calendar per hall
 * Hall filters and sorting options
 * User dashboard for past & upcoming bookings
+
+### 🛠️ Admin Dashboard
+
+* Manage halls and amenities
+* View, approve, or reject bookings
+* Calendar view of bookings per hall
+* Access analytics and usage stats
 
 ---
 
@@ -41,7 +51,6 @@ A working prototype of the dashboard UI has been built using [V0.dev](https://v0
 * **Design Tool**: V0.dev, Figma
 
 ---
-
 
 ## 📖 How to Run
 
