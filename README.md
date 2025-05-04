@@ -38,7 +38,7 @@ This project enhances the citizen-facing community hall booking platform under t
 
 A working prototype of the dashboard UI has been built using [V0.dev](https://v0.dev/), showcasing the interface for hall browsing, real-time availability, and booking steps.
 
-🔗 **[View UI Prototype](https://kzmg27dspcyevsl5qtkg.lite.vusercontent.net/dashboard)**
+🔗 **[View UI Prototype](https://kzmjjqtn8im8ljrw7lg7.lite.vusercontent.net)**
 
 ---
 
