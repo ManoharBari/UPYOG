@@ -1,6 +1,7 @@
 # UPYOG Community Hall Booking Enhancement – C4GT 2025
 
 ## 📌 Project Overview
+
 This project enhances the citizen-facing community hall booking platform under the UPYOG framework. The focus is to simplify the UI/UX, introduce real-time booking visibility, and improve the overall workflow for hall reservations. It also includes an admin dashboard to help urban local bodies manage facilities more effectively.
 
 <img width="782" alt="image" src="https://github.com/user-attachments/assets/0b3500ef-7da0-4c2c-9b50-644533ff422f" />
